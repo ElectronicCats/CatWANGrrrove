@@ -1,4 +1,4 @@
-update=jueves, 08 '08e' septiembre '08e' 2016, 19:00:49
+update=miércoles, 28 '28e' septiembre '28e' 2016, 17:11:35
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/theinventorhouse
 LibName32=Library/USB6B1
 LibName33=Library/MCP73831T-2ATI_OT
 LibName34=/Users/sabas/Downloads/h/antena_good
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
