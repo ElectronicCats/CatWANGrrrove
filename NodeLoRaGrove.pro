@@ -1,4 +1,4 @@
-update=miércoles, 28 '28e' septiembre '28e' 2016, 17:11:35
+update=jueves, 29 '29e' septiembre '29e' 2016, 21:19:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -58,18 +68,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=Library/RN2483-I_RM095/RN2903-I_RM095
-LibName31=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/theinventorhouse
-LibName32=Library/USB6B1
-LibName33=Library/MCP73831T-2ATI_OT
-LibName34=/Users/sabas/Downloads/h/antena_good
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName30=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/theinventorhouse
+LibName31=Library/USB6B1
+LibName32=Library/MCP73831T-2ATI_OT
+LibName33=/Users/sabas/Downloads/h/antena_good
+LibName34=Library/RN2903-I_RM095
