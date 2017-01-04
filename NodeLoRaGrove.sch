@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:NodeLoRaGrove-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -112,7 +113,7 @@ F 3 "" H 2100 6300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L USB_A P3
+L USB_A-RESCUE-NodeLoRaGrove P3
 U 1 1 57D06EF4
 P 6150 1600
 F 0 "P3" H 6350 1400 50  0000 C CNN
@@ -1389,7 +1390,7 @@ F 3 "" H 10950 2800 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED D5
+L LED-RESCUE-NodeLoRaGrove D5
 U 1 1 57D3ECB0
 P 4950 2600
 F 0 "D5" H 4950 2700 50  0000 C CNN
@@ -1444,7 +1445,7 @@ Wire Wire Line
 NoConn ~ 1450 3250
 NoConn ~ 1450 3150
 $Comp
-L ATmega32U4-AU U3
+L ATmega32U4-AU-RESCUE-NodeLoRaGrove U3
 U 1 1 57D4956F
 P 9100 2250
 F 0 "U3" H 8200 3950 50  0000 C CNN
